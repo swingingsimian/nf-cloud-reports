@@ -1,0 +1,3 @@
+key	path	size	display	mime_type
+**/multiqc/multiqc_report.html	/tmp/nf-cloud-reports-out/multiqc/multiqc_report.html	343	HTML report (with sibling CSS)	
+**/summary.csv	/tmp/nf-cloud-reports-out/summary.csv	53	Summary table	

@@ -1,0 +1,5 @@
+reports:
+  "**/multiqc/multiqc_report.html":
+    display: "HTML report (with sibling CSS)"
+  "**/summary.csv":
+    display: "Summary table"
